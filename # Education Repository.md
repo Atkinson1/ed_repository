@@ -4,8 +4,8 @@
 
 ## Education Policy
 
-[MNSCU] (https://en.wikipedia.org/wiki/Minnesota_State_Colleges_and_Universities_system)
-[UMN] (https://en.wikipedia.org/wiki/University_of_Minnesota_system)
+[MNSCU](https://en.wikipedia.org/wiki/Minnesota_State_Colleges_and_Universities_system)
+[UMN](https://en.wikipedia.org/wiki/University_of_Minnesota_system)
 [Assessment scores and ability signals]
 (https://wheelockpolicycenter.org/high-quality-education/math-ability-signals/)
 
