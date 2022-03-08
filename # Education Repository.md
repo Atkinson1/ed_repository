@@ -1,4 +1,4 @@
-[github markdown reminder]("https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet")
+[github markdown reminder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 # Education Repository
