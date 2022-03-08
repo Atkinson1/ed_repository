@@ -6,17 +6,16 @@
 
 [MNSCU](https://en.wikipedia.org/wiki/Minnesota_State_Colleges_and_Universities_system)
 [UMN](https://en.wikipedia.org/wiki/University_of_Minnesota_system)
-[Assessment scores and ability signals]
-(https://wheelockpolicycenter.org/high-quality-education/math-ability-signals/)
+[Assessment scores and ability signals](https://wheelockpolicycenter.org/high-quality-education/math-ability-signals/)
+
+### *Teaching Methods -- Simulations*
+(https://phet.colorado.edu/en/research)
 
 
 
 ### Resources for Parents/Students
 
-[College_Score_Card]
-(https://collegescorecard.ed.gov/)
-
-
+[College_Score_Card](https://collegescorecard.ed.gov/)
 
 
 
@@ -25,17 +24,16 @@
 
 ### *Mathematics*
 [Wolfram Alpha](https://www.wolframalpha.com/)
-[symbolab] (https://www.symbolab.com/)
-(https://www.statisticshowto.com/)
-(https://www.quickstudy.com/)
-(https://www.mathsisfun.com/)
+[symbolab](https://www.symbolab.com/)
+[statistics](https://www.statisticshowto.com/)
+[study charts](https://www.quickstudy.com/)
+[math tutorials](https://www.mathsisfun.com/)
 
 
 ### *Coding*
-(h)ttps://rpsychologist.com/viz/)
+[rcode](https://rpsychologist.com/viz/)
 
-### *Simulations*
-(https://phet.colorado.edu/en/research)
+
 
 ### *Videos*
 
