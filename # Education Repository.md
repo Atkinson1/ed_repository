@@ -1,7 +1,7 @@
 ### Github resources
 
-[github markdown reminder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[github shortcuts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+1. [github markdown reminder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [github shortcuts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
