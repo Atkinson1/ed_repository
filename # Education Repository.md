@@ -2,8 +2,8 @@
 
 1. [github markdown reminder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. [github shortcuts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
+1. [github hit counter](https://github.com/gjbae1212/hit-counter)
+1. [github repository traffic](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository)
 
 # Education Repository
 
