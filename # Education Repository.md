@@ -8,22 +8,22 @@
 # Education Repository
 
 
+### Resources for Parents/Students in Applying for Schools
+* [College_Score_Card](https://collegescorecard.ed.gov/)
+
 
 ## Education Policy
-
 1. [MNSCU](https://en.wikipedia.org/wiki/Minnesota_State_Colleges_and_Universities_system)
 1. [UMN](https://en.wikipedia.org/wiki/University_of_Minnesota_system)
 1. [Assessment scores and ability signals](https://wheelockpolicycenter.org/high-quality-education/math-ability-signals/)
 
+
+
 ### *Teaching Methods -- Simulations*
 * [simulations for math, chem, physics, earth science, bio](https://phet.colorado.edu/en/research)
 
-
-
-### Resources for Parents/Students in Applying for Schools
-
-[College_Score_Card](https://collegescorecard.ed.gov/)
-
+### *Coding*
+[rcode visualizations for statistics](https://rpsychologist.com/viz/)
 
 
 
@@ -37,18 +37,10 @@
 1. [math tutorials](https://www.mathsisfun.com/)
 
 
-### *Coding*
-[rcode](https://rpsychologist.com/viz/)
-
-
-
 ### *Videos*
 
 
 ### *Paid Resources*
 1. [varsity tutors](https://www.varsitytutors.com/)
 1. [brilliant](https://brilliant.org/)
-
-
-
 
