@@ -20,7 +20,7 @@
 
 
 
-### Resources for Parents/Students
+### Resources for Parents/Students in Applying for Schools
 
 [College_Score_Card](https://collegescorecard.ed.gov/)
 
@@ -44,6 +44,10 @@
 
 ### *Videos*
 
+
+### *Paid Resources*
+[varsity tutors](https://www.varsitytutors.com/)
+[brilliant](https://brilliant.org/)
 
 
 
